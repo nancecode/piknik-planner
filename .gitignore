@@ -1,0 +1,10 @@
+printf "%s\n" \
+"# Env files" \
+"**/.env" \
+"" \
+"# Node modules" \
+"node_modules/" \
+"" \
+"# Misc" \
+".DS_Store" \
+>> .gitignore
