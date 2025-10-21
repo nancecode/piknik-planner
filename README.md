@@ -18,7 +18,6 @@
 
 =======
 + ✅ Automatic logout after 5 minutes of inactivity, with Toastify warning at 4.5 minutes
->>>>>>> e8c20131223bb331726340d60f09ab94d7fb8c19
 
 ## 🛠️ Tech Stack
 
