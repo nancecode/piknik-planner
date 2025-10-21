@@ -27,7 +27,6 @@
 - React Router
 - Toastify
 - Piknik UI theme
-- Toastify
 
 ### Backend
 - Node.js
